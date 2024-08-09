@@ -40,6 +40,10 @@ _This video is sponsored by PCBWay. By using the link, you can get 10 PCBs for f
 
 Small Animations:
 
+
+![focus_rs_gauges_arduino_uno_hold_red](https://github.com/user-attachments/assets/f641dce0-d66e-4342-9894-39bafc53f41f)
+
+
 ![focus_rs_gauges_arduino_uno_red](https://github.com/user-attachments/assets/728caeb0-62c6-40a5-9f38-947b1d8b408e)
 
 
