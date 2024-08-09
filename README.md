@@ -2,9 +2,9 @@
 Learn how to create the 3 gauges display from the Ford Focus RS using the intelligent display from DWIN together with the Arduino UNO. The gauges show the oil temperature, turbo boost and oil pressure. Both the EU version (pressure in Bar and temperature in °C) and the US version (pressure in PSI and temperature in °F) are included.
 
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/ugS3rKBZVVc**
 
-**WOKWI sketch: XXX**
+**WOKWI sketch: https://wokwi.com/projects/405742636187304961**
 
 
 
