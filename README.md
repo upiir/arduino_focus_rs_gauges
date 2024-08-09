@@ -6,6 +6,8 @@ Learn how to create the 3 gauges display from the Ford Focus RS using the intell
 
 **WOKWI sketch: XXX**
 
+
+
 Links from the video:
 - Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
 - Arduino UNO: https://s.click.aliexpress.com/e/_AXDw1h
@@ -32,6 +34,8 @@ Related videos:
 - DWIN with Arduino example: https://youtu.be/t21-wF5F41Y
 
 _This video is sponsored by PCBWay. By using the link, you can get 10 PCBs for free, only paying for shipping, and at the same time, you will support this channel. Thank you, PCBWay! https://www.pcbway.com/setinvite.aspx?inviteid=572577_
+
+![THUMB_ford_focus_rs_arduino_uno_gauges](https://github.com/user-attachments/assets/5d19ed5a-de40-4d57-9733-e61a969dfc20)
 
 
 Small Animations:
