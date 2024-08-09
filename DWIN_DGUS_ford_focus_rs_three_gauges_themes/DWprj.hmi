@@ -1,0 +1,10 @@
+[INIT]
+PICFIX=1
+VARCount=64
+Version=0
+ProVersion=647
+SCREENDSIZE=960X480
+SPADDRESS=5000
+[IMG]
+0=0_bg_black.png
+1=1_bg_black.png
